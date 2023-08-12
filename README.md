@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/birendra-kumar-gupta-a6b914239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-ptdr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/birendra-kumar-gupta-a6b914239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birendra" height="30" width="40" /></a>
 <a href="https://instagram.com/birendra___gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="birendra___gupta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@birugupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@birugupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/birendra-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="birendra-kumar" height="30" width="40" /></a>
